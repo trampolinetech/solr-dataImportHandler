@@ -8,12 +8,12 @@
           "date": "2023-07-01",
           "artifacts": [
             {
-              "url": "data-import-handler-9.2.1.jar",
-              "sig": "n55pNZzyIXng6PydHpzGUTcJQbfE1gVoZjhh3HjniMM7oRZmHasgOlqebu0hwTynexa2xo5VnOaBVsixRCEXGg=="
+              "url": "data-import-handler-9.2.2.jar",
+              "sig": "ICxM2POM4bOpFtfUFyjGw1wJ0bDZtRQi+QXEcjg7XiS5Xz5KtcDc82NXR7ANcOAWbgZfJvW7wFkUvimYmsyzdA=="
             },
             {
               "url": "mariadb-java-client-2.6.0.jar",
-              "sig": "SfYkFEkpqNfytOeGYNTSB0VD1sNLvTFQR9oCRv+e2y6GzawaZHBGo+9nKrZJ/4MUDVxQLfOiyaEJyQOI8Y+L7A=="
+              "sig": "VOIiudpKnF9Z1/dkkzVQ1s4Mjo4blJNi8pDSAt06ag//aU2BL7XMukevoSr0uhDyOsHXMA3rCYaS15b/ciJhCw=="
             }
           ],
           "manifest": {
