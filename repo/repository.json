@@ -8,12 +8,16 @@
           "date": "2023-07-01",
           "artifacts": [
             {
-              "url": "data-import-handler-9.2.1.jar",
-              "sig": "n55pNZzyIXng6PydHpzGUTcJQbfE1gVoZjhh3HjniMM7oRZmHasgOlqebu0hwTynexa2xo5VnOaBVsixRCEXGg=="
+              "url": "data-import-handler-9.2.1.1.jar",
+              "sig": "UDLtSoSKY35YUcLMgIKQXrDfaBrkFY9Uu9jOG72wMcTsBLlMZGDb7VcJqHs/Q4szG6kiema0ZLXNcbDTPgKD6Q=="
             },
             {
               "url": "mariadb-java-client-2.6.0.jar",
-              "sig": "SfYkFEkpqNfytOeGYNTSB0VD1sNLvTFQR9oCRv+e2y6GzawaZHBGo+9nKrZJ/4MUDVxQLfOiyaEJyQOI8Y+L7A=="
+              "sig": "VOIiudpKnF9Z1/dkkzVQ1s4Mjo4blJNi8pDSAt06ag//aU2BL7XMukevoSr0uhDyOsHXMA3rCYaS15b/ciJhCw=="
+            },
+            {
+              "url": "jython-standalone-2.7.3.jar",
+              "sig": "I3Yq59pqk3swhwQbro/Mi/SLj7efPNHzJfvfGPzMY3D1PmqyGEkwVwob4QaCKV5APaU44LLU4eDad4nVFVcfww=="
             }
           ],
           "manifest": {

@@ -82,6 +82,7 @@
     </dependencies>
 
     <build>
+        <finalName>${artifactId}-9.2.1.1</finalName>
         <plugins>
             <plugin>
                 <artifactId>maven-resources-plugin</artifactId>
